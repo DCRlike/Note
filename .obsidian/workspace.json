@@ -11,10 +11,14 @@
             "id": "ce71386598ca773a",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Basic_Tool/Deepseek使用教程.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "Deepseek使用教程"
             }
           }
         ]
@@ -74,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "5946c29b735d3d81",
@@ -146,16 +149,6 @@
               "icon": "lucide-list",
               "title": "大纲"
             }
-          },
-          {
-            "id": "c8dc4d6429d6fe1d",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
-            }
           }
         ],
         "currentTab": 1
@@ -179,9 +172,12 @@
   },
   "active": "ce71386598ca773a",
   "lastOpenFiles": [
+    "Basic_Tool/Latex基本语法.md",
+    "Basic_Tool/Deepseek使用教程.md",
+    "CS/Data_Structure/并查集 Disjoint-Set.md",
+    "README.md",
     "Latex基本语法.md",
     "Basic_Tool/Markdown基本语法.md",
-    "Basic_Tool/Latex基本语法.md",
     "BOOK/离散数学及其应用_13608335.pdf",
     "BOOK/Python数据科学手册 (Jake VanderPlas) (Z-Library).pdf",
     "BOOK/深入理解计算机系统（原书第三版）.pdf",
@@ -195,8 +191,6 @@
     "Markdown基本语法.md",
     "latex语法.md",
     "CS/Data_Structure/红黑树 R-B Tree.md",
-    "CS/Data_Structure/并查集 Disjoint-Set.md",
-    "README.md",
     "Excalidraw/Drawing 2025-02-18 20.27.09.excalidraw.md"
   ]
 }
