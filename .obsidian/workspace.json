@@ -1,0 +1,202 @@
+{
+  "main": {
+    "id": "a594b6cb44fa13cc",
+    "type": "split",
+    "children": [
+      {
+        "id": "bfff367dff9221ba",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ce71386598ca773a",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "新标签页"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c3ff6f6bed22316c",
+    "type": "split",
+    "children": [
+      {
+        "id": "e812ba7f978d0332",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "65d68163f0d5bcb3",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "52dee89666af89c9",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "718a01931e4430a4",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "right": {
+    "id": "5946c29b735d3d81",
+    "type": "split",
+    "children": [
+      {
+        "id": "5a944196ef277b2e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "06ba4a2636783446",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Latex基本语法.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Latex基本语法 的反向链接列表"
+            }
+          },
+          {
+            "id": "6dfcd12e2492811b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Latex基本语法.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Latex基本语法 的出链列表"
+            }
+          },
+          {
+            "id": "f7209ac012ecf676",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "4568c292dd4c77b8",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "大纲"
+            }
+          },
+          {
+            "id": "c8dc4d6429d6fe1d",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "obsidian-excalidraw-plugin:新建绘图文件": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "ce71386598ca773a",
+  "lastOpenFiles": [
+    "Latex基本语法.md",
+    "Basic_Tool/Markdown基本语法.md",
+    "Basic_Tool/Latex基本语法.md",
+    "BOOK/离散数学及其应用_13608335.pdf",
+    "BOOK/Python数据科学手册 (Jake VanderPlas) (Z-Library).pdf",
+    "BOOK/深入理解计算机系统（原书第三版）.pdf",
+    "BOOK/数据结构与算法分析 C++描述(第三版) ([美] Mark Allen Weiss  张怀勇) (Z-Library).pdf",
+    "BOOK/Effective Modern C++.pdf",
+    "BOOK/Effective C++.pdf",
+    "BOOK/C++ Primer Plus：中文版（第六版） (Stephen Prata) (Z-Library).pdf",
+    "BOOK/数电习题集 (1).pdf",
+    "BOOK/数字图像处理（第四版）Digital Image Processing，Fourth Edition (Rafael C.Gonzalez, Richard E.Woods) (Z-Library).pdf",
+    "BOOK",
+    "Markdown基本语法.md",
+    "latex语法.md",
+    "CS/Data_Structure/红黑树 R-B Tree.md",
+    "CS/Data_Structure/并查集 Disjoint-Set.md",
+    "README.md",
+    "Excalidraw/Drawing 2025-02-18 20.27.09.excalidraw.md"
+  ]
+}
