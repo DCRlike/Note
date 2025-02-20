@@ -11,10 +11,14 @@
             "id": "e0a525ef52e55293",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "CS/OS/操作系统接口.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "操作系统接口"
             }
           }
         ]
@@ -166,12 +170,18 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "e0a525ef52e55293",
+  "active": "65d68163f0d5bcb3",
   "lastOpenFiles": [
+    "Basic_Tool/Markdown基本语法.md",
+    "CS/OS/操作系统接口.md",
     "Basic_Tool/Latex基本语法.md",
+    "未命名.md",
+    "Excalidraw/Kernel_Mode.png",
+    "Excalidraw/Kernel_Mode.md",
+    "Excalidraw",
+    "Basic_Tool/Deepseek使用教程.md",
     "Maths/Caculus/微积分上册回顾.md",
     "Latex基本语法.md",
-    "Basic_Tool/Markdown基本语法.md",
     "BOOK/离散数学及其应用_13608335.pdf",
     "BOOK/Python数据科学手册 (Jake VanderPlas) (Z-Library).pdf",
     "BOOK/深入理解计算机系统（原书第三版）.pdf",
@@ -181,7 +191,6 @@
     "BOOK/C++ Primer Plus：中文版（第六版） (Stephen Prata) (Z-Library).pdf",
     "BOOK/数电习题集 (1).pdf",
     "BOOK/数字图像处理（第四版）Digital Image Processing，Fourth Edition (Rafael C.Gonzalez, Richard E.Woods) (Z-Library).pdf",
-    "BOOK",
     "Markdown基本语法.md",
     "latex语法.md",
     "CS/Data_Structure/红黑树 R-B Tree.md",
